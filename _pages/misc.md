@@ -23,3 +23,7 @@ I was a teaching assistant for
 * MATH 516 (Spring 2019, UW): [Convex Analysis and Nonsmooth Optimization](https://sites.math.washington.edu/~ddrusv/crs/Math_516_2020/MATH516).  
 * MATH 581-583 C (Autumn 2019 & Winter 2020 & Spring 2020, UW): Optimal Transport.  
 * MATH 581 E (Autumn 2019, UW): [High Dimensional Probability and Statistical Learning](https://sites.math.washington.edu/~ddrusv/crs/Math_581_2019/MATH581).
+
+### Hobbies
+* Guitar: I have played guitar and bass in a band at Tsinghua University.
+* Volleyball: I was the captain of department volleyball team at Tsinghua University.

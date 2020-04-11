@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Papers"
 author_profile: true
 redirect_from:
   - /publications.html

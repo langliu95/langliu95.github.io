@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Papers"
     url: /publications
 
   - title: "MISC"
     url: /misc
 
-  # - title: "CV"
-  #   url: /cv
+  - title: "CV"
+    url: /files/liu_cv.pdf
