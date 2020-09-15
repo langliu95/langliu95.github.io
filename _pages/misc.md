@@ -10,7 +10,9 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 ### Teaching
-I was a teaching assistant for  
+[Tutorial](https://github.com/langliu95/otml-neurohackademy-2020) on Optimal Transport in Computational Neuroscience, *[Neurohackademy](https://neurohackademy.org/)*, 2020.  
+
+I was a teaching assistant for
 * STAT 538 (Winter 2019 & Winter 2020, UW): Statistical Learning: Modeling, Prediction, and Computing.  
 * STAT 311 (Autumn 2017 & Winter 2018 & Spring 2018, UW): Elements of Statistical Methods.
 
