@@ -14,7 +14,7 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 *Working paper*.
 
 **Sufficiency-Based Meta-Learning for Model Aggregation**  
-**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
+**Lang Liu**, Sen Zhao, Mahdi Milani Fard  
 *Working paper*.
 
 **Gradient-Based Monitoring of Learning Machines**  
