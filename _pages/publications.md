@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
+**Statistical Properties of Regularized Optimal Transport**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
 *Working paper*.
 
