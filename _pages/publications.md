@@ -9,12 +9,13 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Statistical Properties of Regularized Optimal Transport**  
-Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*Working paper*.
+**Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
+Zaid Harchaoui, **Lang Liu**, Soumik Pal (in alphabetical order)  
+*Preprint, 2020*.  
+[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 
-**Sufficiency-Based Meta-Learning for Model Aggregation**  
-**Lang Liu**, Sen Zhao, Mahdi Milani Fard  
+**Distribution Embedding Network for Meta-Learning with Variable-Length Input**  
+**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
 *Working paper*.
 
 **Gradient-Based Monitoring of Learning Machines**  
