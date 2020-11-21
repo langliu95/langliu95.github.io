@@ -17,4 +17,9 @@ I am broadly interested in safe and interpretable machine learning with applicat
 I am also excited about optimal transport and its applications in statistics and machine learning.  
 <!-- I have been working on safe statistical machine learning by developing automatic change detection method for machine learning algorithms to monitor their behavior. -->
 
-Contact me at liu16 [at] uw [dot] edu.
+Contact me at liu16 [at] uw [dot] edu.  
+
+---  
+News
+* 11/23/2020: Upcoming talk at [UW probability seminar](https://math.washington.edu/events/2020-11-23/asymptotics-entropy-regularized-optimal-transport-chaos-decomposition) on entropy-regularized optimal transport.
+* 11/17/2020: A new [preprint](https://arxiv.org/abs/2011.08963) on large-sample theory of entropy-regularized optimal transport.
