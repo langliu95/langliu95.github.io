@@ -12,7 +12,8 @@ redirect_from:
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal (in alphabetical order)  
 *Preprint, 2020*.  
-[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
+[PDF](https://arxiv.org/abs/2011.08963) &nbsp; 
+[Slides](/files/2020_eot_slides.pdf) &nbsp;  
 
 **Distribution Embedding Network for Meta-Learning with Variable-Length Input**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
