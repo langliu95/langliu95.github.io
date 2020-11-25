@@ -10,7 +10,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
-* [*UW probability seminar*](https://math.washington.edu/events/2020-11-23/asymptotics-entropy-regularized-optimal-transport-chaos-decomposition), November 2020, Seattle, US.  
+* [*UW Probability Seminar*](https://math.washington.edu/events/2020-11-23/asymptotics-entropy-regularized-optimal-transport-chaos-decomposition), November 2020, Seattle, US.  
 
 **Gradient-Based Monitoring of Learning Machines**
 * *Google Statistics Journal Club*, September 2020, Seattle, US.
