@@ -29,5 +29,5 @@ I was a teaching assistant for
 * MATH 581 E (Autumn 2019, UW): [High Dimensional Probability and Statistical Learning](https://sites.math.washington.edu/~ddrusv/crs/Math_581_2019/MATH581).
 
 ### Hobbies
-* Guitar: I have played guitar and bass in a band at Tsinghua University.
-* Volleyball: I was the captain of department volleyball team at Tsinghua University.
+* Guitar: I played guitar and bass in a band at Tsinghua University.
+* Volleyball: I was the captain of the volleyball team in the math department at Tsinghua University.
