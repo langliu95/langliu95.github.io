@@ -25,10 +25,9 @@ The widespread use of machine learning algorithms calls for automatic change det
 </span> -->
 **Lang Liu**, Joseph Salmon, Zaid Harchaoui  
 *ICASSP, 2021 (to appear)*.  
-[PDF-long](/files/2020_autotest.pdf) &nbsp;
-[PDF-short](/files/ICASSP2021_autotest.pdf) &nbsp;
+[PDF](/files/ICASSP2021-autotest.pdf) &nbsp;
 [Code](https://github.com/langliu95/autodetect) &nbsp;
-[Poster](/files/IFDS2020kickoff_autotest_poster.pdf) &nbsp;
-[Slides](/files/2020_autotest_slides.pdf) &nbsp;
-[Video](https://slideslive.com/38931677/gradientbased-monitoring-of-learning-machines?ref=account-folder-55868-folders) &nbsp;
+[Poster](/files/ICASSP2021-autotest-poster.pdf) &nbsp;
+[Slides](/files/ICASSP2021-autotest-slides.pdf) &nbsp;
+[Video](https://sites.stat.washington.edu/people/liu16/video/icassp2021-autotest.mp4) &nbsp;
 <!-- ![Monitoring](/images/monitoring.png) -->

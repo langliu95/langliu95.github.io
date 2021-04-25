@@ -21,5 +21,6 @@ Contact me at liu16 [at] uw [dot] edu.
 
 ---  
 News
+* 06/06/2021: Presentation at [ICASSP 2021](https://l.feathr.co/ICASSP/Lang-Liu) on score-based change detection.
 * 11/23/2020: Talk at [UW Probability Seminar](https://math.washington.edu/events/2020-11-23/asymptotics-entropy-regularized-optimal-transport-chaos-decomposition) on entropy-regularized optimal transport.
 * 11/17/2020: A new [preprint](https://arxiv.org/abs/2011.08963) on large-sample theory of entropy-regularized optimal transport.
