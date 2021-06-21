@@ -9,8 +9,13 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral**  
+**Lang Liu**, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui  
+*Preprint, 2021*.  
+[PDF](https://arxiv.org/abs/2106.07898) &nbsp;  
+
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
-Zaid Harchaoui, **Lang Liu**, Soumik Pal
+Zaid Harchaoui, **Lang Liu**, Soumik Pal  
 *Preprint, 2020*.  
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020_eot_slides.pdf) &nbsp;  
