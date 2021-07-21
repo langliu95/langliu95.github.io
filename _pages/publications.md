@@ -29,8 +29,9 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 The widespread use of machine learning algorithms calls for automatic change detection algorithms to monitor their behavior over time. As a machine learning algorithm learns from a continuous, possibly evolving, stream of data, it is desirable and often critical to supplement it with a companion change detection algorithm to facilitate its monitoring and control. We present a generic score-based change detection method that can detect a change in any number of (hidden) components of a machine learning model trained via empirical risk minimization. This proposed statistical hypothesis test can be readily implemented for such models designed within a differentiable programming framework. We establish the consistency of the hypothesis test and show how to calibrate it based on our theoretical results. We illustrate the versatility of the approach on additive models, time series models, text topic models, and latent variable models on synthetic and real data.
 </span> -->
 **Lang Liu**, Joseph Salmon, Zaid Harchaoui  
-*ICASSP, 2021 (to appear)*.  
-[PDF](/files/ICASSP2021-autotest.pdf) &nbsp;
+*ICASSP, 2021*.  
+[Short](/files/ICASSP2021-autotest.pdf) &nbsp;
+[Long](https://arxiv.org/abs/2106.14122) &nbsp;
 [Code](https://github.com/langliu95/autodetect) &nbsp;
 [Poster](/files/ICASSP2021-autotest-poster.pdf) &nbsp;
 [Slides](/files/ICASSP2021-autotest-slides.pdf) &nbsp;
