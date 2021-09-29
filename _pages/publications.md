@@ -11,7 +11,7 @@ redirect_from:
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral**  
 **Lang Liu**, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui  
-*Preprint, 2021*.  
+*NeurIPS, 2021*.  
 [PDF](https://arxiv.org/abs/2106.07898) &nbsp;  
 
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
@@ -20,9 +20,9 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020_eot_slides.pdf) &nbsp;  
 
-**Distribution Embedding Network for Meta-Learning with Variable-Length Input**  
+**Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
-*Working paper*.  
+*Submitted*.  
 
 **Score-Based Change Detection for Gradient-Based Learning Machines**  
 <!-- <span style="font-size:0.8em;">
