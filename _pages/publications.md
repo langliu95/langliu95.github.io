@@ -12,17 +12,15 @@ redirect_from:
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral**  
 **Lang Liu**, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui  
 *NeurIPS, 2021*.  
-[PDF](https://arxiv.org/abs/2106.07898) &nbsp;  
+[PDF](https://arxiv.org/abs/2106.07898) &nbsp;
+[Slides](/files/neurips2021-fi-slides.pdf) &nbsp;  
 
-**Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
+**Discrete Schr\"odinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*Preprint, 2020*.  
-[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
+*NeurIPS OTML Workshop, 2021 (Oral)*.  
+[PDF-short](/files/OTML2021-eot.pdf) &nbsp;
+[PDF-long](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020_eot_slides.pdf) &nbsp;  
-
-**Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
-**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
-*Submitted*.  
 
 **Score-Based Change Detection for Gradient-Based Learning Machines**  
 <!-- <span style="font-size:0.8em;">
@@ -30,10 +28,18 @@ The widespread use of machine learning algorithms calls for automatic change det
 </span> -->
 **Lang Liu**, Joseph Salmon, Zaid Harchaoui  
 *ICASSP, 2021*.  
-[Short](/files/ICASSP2021-autotest.pdf) &nbsp;
-[Long](https://arxiv.org/abs/2106.14122) &nbsp;
+[PDF-short](/files/ICASSP2021-autotest.pdf) &nbsp;
+[PDF-long](https://arxiv.org/abs/2106.14122) &nbsp;
 [Code](https://github.com/langliu95/autodetect) &nbsp;
 [Poster](/files/ICASSP2021-autotest-poster.pdf) &nbsp;
 [Slides](/files/ICASSP2021-autotest-slides.pdf) &nbsp;
-[Video](https://sites.stat.washington.edu/people/liu16/video/icassp2021-autotest.mp4) &nbsp;
+[Video](https://sites.stat.washington.edu/people/liu16/video/icassp2021-autotest.mp4) &nbsp;  
 <!-- ![Monitoring](/images/monitoring.png) -->
+
+**Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
+**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
+*Submitted*.  
+
+**Entropy Regularized Optimal Transport Independence Criterion**  
+**Lang Liu**, Soumik Pal, Zaid Harchaoui
+*Submitted*.  
