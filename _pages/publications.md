@@ -15,7 +15,7 @@ redirect_from:
 [PDF](https://arxiv.org/abs/2106.07898) &nbsp;
 [Slides](/files/neurips2021-fi-slides.pdf) &nbsp;  
 
-**Discrete Schr\"odinger Bridges with Applications to Two-Sample Homogeneity Testing**  
+**Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
 *NeurIPS OTML Workshop, 2021 (Oral)*.  
 [PDF-short](/files/OTML2021-eot.pdf) &nbsp;
@@ -41,5 +41,5 @@ The widespread use of machine learning algorithms calls for automatic change det
 *Submitted*.  
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
-**Lang Liu**, Soumik Pal, Zaid Harchaoui
+**Lang Liu**, Soumik Pal, Zaid Harchaoui  
 *Submitted*.  
