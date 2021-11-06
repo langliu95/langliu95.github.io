@@ -28,5 +28,3 @@ News
 * 06/15/2021: A new [preprint](https://arxiv.org/abs/2106.07898) on statistical analysis of divergence frontiers.
 * 06/06/2021: Presentation at [ICASSP 2021](https://l.feathr.co/ICASSP/Lang-Liu) on score-based change detection.
 * 06/03/2021: Presentation at [SDSS 2021](https://ww2.amstat.org/meetings/sdss/2021/) on score-based change detection.
-* 11/23/2020: Talk at [UW Probability Seminar](https://math.washington.edu/events/2020-11-23/asymptotics-entropy-regularized-optimal-transport-chaos-decomposition) on Schrödinger bridges and entropic optimal transport.
-* 11/17/2020: A new [preprint](https://arxiv.org/abs/2011.08963) on large-sample theory of Schrödinger bridges and entropic optimal transport.
