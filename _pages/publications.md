@@ -9,10 +9,12 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral**  
+**Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
 **Lang Liu**, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui  
 *NeurIPS, 2021*.  
 [PDF](https://arxiv.org/abs/2106.07898) &nbsp;
+[Code](https://github.com/langliu95/divergence-frontier-bounds) &nbsp;
+[Poster](/files/neurips2021-fi-poster.pdf) &nbsp;
 [Slides](/files/neurips2021-fi-slides.pdf) &nbsp;  
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  

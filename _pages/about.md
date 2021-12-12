@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in the Department of Statistics at the University of Washington.
+I am a Ph.D. candidate in the Department of Statistics at the University of Washington.
 I am fortunate to be advised by [Zaid Harchaoui](http://faculty.washington.edu/zaid/) and [Soumik Pal](https://sites.math.washington.edu/~soumik/).
 Prior to that, I received my B.S. in mathematics and applied mathematics at Tsinghua University.  
 
