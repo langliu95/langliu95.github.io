@@ -19,8 +19,10 @@ redirect_from:
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*NeurIPS OTML Workshop, 2021 (Oral)*.  
+*NeurIPS OTML Workshop, 2021 (Best Paper Award)*.  
 [PDF](/files/OTML2021-eot.pdf) &nbsp;
+[Poster](/files/OTML2021-eot-poster.png) &nbsp;
+[Slides](/files/OTML2021-eot-slides.pdf) &nbsp;  
 <!-- [Slides](/files/2020_eot_slides.pdf) &nbsp;   -->
 
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
