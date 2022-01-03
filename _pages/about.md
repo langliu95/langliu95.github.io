@@ -21,6 +21,7 @@ Contact me at liu16 [at] uw [dot] edu.
 
 ---  
 News
+* 12/31/2021: A new [preprint](http://arxiv.org/abs/2112.15265) on entropy regularized optimal transport independence criterion.
 * 12/13/2021: Our [paper](/files/OTML2021-eot.pdf) on discrete Schrödinger bridges and two-sample testing has received the **Best Paper Award** at NeurIPS 2021 [OTML Workshop](https://otml2021.github.io/).
 * 09/28/2021: Our [paper](https://arxiv.org/abs/2106.07898) on statistical analysis of divergence frontiers has been accepted at NeurIPS 2021.
 * 08/08/2021: Presentation at [JSM 2021](https://ww2.amstat.org/meetings/jsm/2021/) on Schrödinger bridges and entropic optimal transport.

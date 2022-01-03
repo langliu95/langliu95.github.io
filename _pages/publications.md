@@ -24,12 +24,6 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [Slides](/files/OTML2021-eot-slides.pdf) &nbsp;  
 <!-- [Slides](/files/2020_eot_slides.pdf) &nbsp;   -->
 
-**Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
-Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*Submitted*.  
-[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
-[Slides](/files/2020_eot_slides.pdf) &nbsp;  
-
 **Score-Based Change Detection for Gradient-Based Learning Machines**  
 **Lang Liu**, Joseph Salmon, Zaid Harchaoui  
 *ICASSP, 2021*.  
@@ -41,10 +35,17 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [Video](https://sites.stat.washington.edu/people/liu16/video/icassp2021-autotest.mp4) &nbsp;  
 <!-- ![Monitoring](/images/monitoring.png) -->
 
-**Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
-**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
+**Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
+Zaid Harchaoui, **Lang Liu**, Soumik Pal  
 *Submitted*.  
+[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
+[Slides](/files/2020_eot_slides.pdf) &nbsp;  
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
 **Lang Liu**, Soumik Pal, Zaid Harchaoui  
+*Submitted*.  
+[PDF](http://arxiv.org/abs/2112.15265) &nbsp;  
+
+**Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
+**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
 *Submitted*.  
