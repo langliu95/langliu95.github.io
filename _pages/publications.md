@@ -9,6 +9,11 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Entropy Regularized Optimal Transport Independence Criterion**  
+**Lang Liu**, Soumik Pal, Zaid Harchaoui  
+*AISTATS, 2022 (**Oral**)*.  
+[PDF](http://arxiv.org/abs/2112.15265) &nbsp;  
+
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
 **Lang Liu**, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui  
 *NeurIPS, 2021*.  
@@ -19,7 +24,7 @@ redirect_from:
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*NeurIPS OTML Workshop, 2021 (Best Paper Award)*.  
+*NeurIPS OTML Workshop, 2021 (**Best Paper Award**)*.  
 [PDF](/files/OTML2021-eot.pdf) &nbsp;
 [Slides](/files/OTML2021-eot-slides.pdf) &nbsp;  
 <!-- [Slides](/files/2020_eot_slides.pdf) &nbsp;   -->
@@ -40,11 +45,6 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 *Submitted*.  
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020_eot_slides.pdf) &nbsp;  
-
-**Entropy Regularized Optimal Transport Independence Criterion**  
-**Lang Liu**, Soumik Pal, Zaid Harchaoui  
-*Submitted*.  
-[PDF](http://arxiv.org/abs/2112.15265) &nbsp;  
 
 **Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
