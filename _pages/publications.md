@@ -48,5 +48,5 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 
 **Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
-*Submitted*.  
+*Submitted*.
 [PDF](https://arxiv.org/abs/2202.01940) &nbsp;  
