@@ -21,6 +21,7 @@ Contact me at liu16 [at] uw [dot] edu.
 
 ---  
 News
+* 02/04/2022: A new preprint on meta-learning is available at [arXiv](http://arxiv.org/abs/2202.01940).
 * 01/21/2022: Presentation at [ML-Opt](https://ifds.info/talks/) on statistical analysis of divergence frontiers.
 * 01/18/2022: Our [paper](http://arxiv.org/abs/2112.15265) on entropy regularized optimal transport independence criterion has been selected as an **Oral Presentation** at AISTATS 2022.
 * 12/13/2021: Our [paper](/files/OTML2021-eot.pdf) on discrete Schrödinger bridges and two-sample testing has received the **Best Paper Award** at NeurIPS 2021 [OTML Workshop](https://otml2021.github.io/).
