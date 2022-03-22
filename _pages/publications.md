@@ -12,7 +12,10 @@ redirect_from:
 **Entropy Regularized Optimal Transport Independence Criterion**  
 **Lang Liu**, Soumik Pal, Zaid Harchaoui  
 *AISTATS, 2022 (**Oral**)*.  
-[PDF](http://arxiv.org/abs/2112.15265) &nbsp;  
+[PDF](http://arxiv.org/abs/2112.15265) &nbsp;
+[Code](https://github.com/langliu95/etic-experiments) &nbsp;
+[Poster](/files/aistats2022-etic-poster.pdf) &nbsp;
+[Slides](/files/aistats2022-etic-slides.pdf) &nbsp;  
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
 **Lang Liu**, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui  
