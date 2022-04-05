@@ -10,6 +10,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
+* [*AISTATS 2022*](http://aistats.org/aistats2022/), March 2022, Virtual Conference.
 * *UW Kantorovich Retreat*, March 2022, Seattle, US.  
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
@@ -18,6 +19,11 @@ redirect_from:
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 * [*NeurIPS 2021 OTML Workshop*](https://otml2021.github.io/), December 2021, Virtual Conference.  
+
+**Probability Metrics for Statistical Learning and Inference: Limit Laws and Non-Asymptotic Bounds**  
+[Slides](/files/general.pdf) &nbsp;
+[Video](https://sites.stat.washington.edu/people/liu16/video/private/general.mp4) &nbsp;  
+* *Ph.D. General Exam*, December 2022, Seattle, US.
 
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
 * [*Joint Statistical Meeting*](https://ww2.amstat.org/meetings/jsm/2021/), August 2021, Virtual Conference.
