@@ -11,7 +11,7 @@ redirect_from:
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
 * [*AISTATS 2022*](http://aistats.org/aistats2022/), March 2022, Virtual Conference.
-* *UW Kantorovich Retreat*, March 2022, Seattle, US.  
+* [*Kantorovich Initiative Retreat*](https://kantorovich.org/event/ki-retreat-2022/), March 2022, Seattle, US.  
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
 * *UW ML-OPT Seminar*, January 2022, Seattle, US.
@@ -19,11 +19,6 @@ redirect_from:
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 * [*NeurIPS 2021 OTML Workshop*](https://otml2021.github.io/), December 2021, Virtual Conference.  
-
-**Probability Metrics for Statistical Learning and Inference: Limit Laws and Non-Asymptotic Bounds**  
-[Slides](/files/general.pdf) &nbsp;
-[Video](https://sites.stat.washington.edu/people/liu16/video/private/general.mp4) &nbsp;  
-* *Ph.D. General Exam*, December 2022, Seattle, US.
 
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
 * [*Joint Statistical Meeting*](https://ww2.amstat.org/meetings/jsm/2021/), August 2021, Virtual Conference.
@@ -38,3 +33,10 @@ redirect_from:
 * *Google Statistics Journal Club*, September 2020, Seattle, US.
 * *Google Research NYC and Athena Org Intern Talks*, July 2020, Seattle, US.
 * [*ICML Workshop on Challenges in Deploying and Monitoring Machine Learning Systems*](https://slideslive.com/38931677/gradientbased-monitoring-of-learning-machines?ref=account-folder-55868-folders), July 2020, Virtual Conference.
+
+---
+
+**Probability Metrics for Statistical Learning and Inference: Limit Laws and Non-Asymptotic Bounds**  
+[Slides](/files/general.pdf) &nbsp;
+[Video](https://sites.stat.washington.edu/people/liu16/video/private/general.mp4) &nbsp;  
+* *Ph.D. General Exam*, December 2021, Seattle, US.

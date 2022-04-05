@@ -21,6 +21,8 @@ Contact me at liu16 [at] uw [dot] edu.
 
 ---  
 News
+* 03/30/2022: Oral presentation at [AISTATS 2022](http://aistats.org/aistats2022/) on entropy regularized optimal transport independence criterion.
+* 03/18/2022: Presentation at [Kantorovich Initiative Retreat](https://kantorovich.org/event/ki-retreat-2022/) on entropy regularized optimal transport independence criterion.
 * 02/04/2022: A new preprint on meta-learning is available at [arXiv](http://arxiv.org/abs/2202.01940).
 * 01/21/2022: Presentation at [ML-Opt](https://ifds.info/talks/) on statistical analysis of divergence frontiers.
 * 01/18/2022: Our [paper](http://arxiv.org/abs/2112.15265) on entropy regularized optimal transport independence criterion has been selected as an **Oral Presentation** at AISTATS 2022.
@@ -28,5 +30,3 @@ News
 * 09/28/2021: Our [paper](https://arxiv.org/abs/2106.07898) on statistical analysis of divergence frontiers has been accepted at NeurIPS 2021.
 * 08/08/2021: Presentation at [JSM 2021](https://ww2.amstat.org/meetings/jsm/2021/) on Schrödinger bridges and entropic optimal transport.
 * 06/22/2021: Presentation at [BIRS workshop](https://workshops.birs.ca/events/21w5120/schedule) on Schrödinger bridges and entropic optimal transport.
-* 06/06/2021: Presentation at [ICASSP 2021](https://l.feathr.co/ICASSP/Lang-Liu) on score-based change detection.
-* 06/03/2021: Presentation at [SDSS 2021](https://ww2.amstat.org/meetings/sdss/2021/) on score-based change detection.
