@@ -11,7 +11,7 @@ redirect_from:
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
 **Lang Liu**, Soumik Pal, Zaid Harchaoui  
-*AISTATS, 2022 (**Oral**)*.  
+*AISTATS, 2022 (**Oral, top 2.6% of the submissions**)*.  
 [PDF](http://arxiv.org/abs/2112.15265) &nbsp;
 [Code](https://github.com/langliu95/etic-experiments) &nbsp;
 [Poster](/files/aistats2022-etic-poster.pdf) &nbsp;
