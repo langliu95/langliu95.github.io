@@ -49,6 +49,11 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020_eot_slides.pdf) &nbsp;  
 
+**Orthogonal Statistical Learning with Self-Concordant Loss**  
+**Lang Liu**, Carlos Cinelli, Zaid Harchaoui  
+*Submitted*.  
+[PDF](https://arxiv.org/abs/2205.00350) &nbsp;  
+
 **Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
 *Submitted*.  
