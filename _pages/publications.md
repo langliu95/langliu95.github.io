@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: "Publications"
 author_profile: true
 redirect_from:
   - /publications.html
@@ -8,6 +8,8 @@ redirect_from:
 {% include base_path %}
 
 <!-- Leave two spaces at the end -->
+
+## Conferences
 
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
 **Lang Liu**, Carlos Cinelli, Zaid Harchaoui  
@@ -30,13 +32,6 @@ redirect_from:
 [Poster](/files/neurips2021-fi-poster.pdf) &nbsp;
 [Slides](/files/neurips2021-fi-slides.pdf) &nbsp;  
 
-**Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
-Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*NeurIPS OTML Workshop, 2021 (**Best Paper Award**)*.  
-[PDF](/files/OTML2021-eot.pdf) &nbsp;
-[Slides](/files/OTML2021-eot-slides.pdf) &nbsp;  
-<!-- [Slides](/files/2020_eot_slides.pdf) &nbsp;   -->
-
 **Score-Based Change Detection for Gradient-Based Learning Machines**  
 **Lang Liu**, Joseph Salmon, Zaid Harchaoui  
 *ICASSP, 2021*.  
@@ -47,6 +42,19 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [Slides](/files/ICASSP2021-autotest-slides.pdf) &nbsp;
 [Video](https://sites.stat.washington.edu/people/liu16/video/icassp2021-autotest.mp4) &nbsp;  
 <!-- ![Monitoring](/images/monitoring.png) -->
+
+
+## Workshops
+
+**Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
+Zaid Harchaoui, **Lang Liu**, Soumik Pal  
+*NeurIPS OTML Workshop, 2021 (**Best Paper Award**)*.  
+[PDF](/files/OTML2021-eot.pdf) &nbsp;
+[Slides](/files/OTML2021-eot-slides.pdf) &nbsp;  
+<!-- [Slides](/files/2020_eot_slides.pdf) &nbsp;   -->
+
+
+## Preprints
 
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
