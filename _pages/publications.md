@@ -9,6 +9,11 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Orthogonal Statistical Learning with Self-Concordant Loss**  
+**Lang Liu**, Carlos Cinelli, Zaid Harchaoui  
+*COLT 2022 (to appear)*.  
+[PDF](https://arxiv.org/abs/2205.00350) &nbsp;  
+
 **Entropy Regularized Optimal Transport Independence Criterion**  
 **Lang Liu**, Soumik Pal, Zaid Harchaoui  
 *AISTATS, 2022 (**Oral, top 2.6% of the submissions**)*.  
@@ -48,11 +53,6 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 *Submitted*.  
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020_eot_slides.pdf) &nbsp;  
-
-**Orthogonal Statistical Learning with Self-Concordant Loss**  
-**Lang Liu**, Carlos Cinelli, Zaid Harchaoui  
-*Submitted*.  
-[PDF](https://arxiv.org/abs/2205.00350) &nbsp;  
 
 **Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  

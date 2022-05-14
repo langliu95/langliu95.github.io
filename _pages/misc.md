@@ -12,12 +12,14 @@ redirect_from:
 ### Teaching
 [Tutorial](https://github.com/langliu95/otml-neurohackademy-2020) on Optimal Transport in Computational Neuroscience, *[Neurohackademy](https://neurohackademy.org/)*, 2020.  
 
+Guest lecture on Statistical Machine Learning with Random Features, *UW STAT 538*, 2022.  
+
 I was a teaching assistant for
 * CSE 541 (Winter 2022, UW): Interactive Learning.  
 * MATH 394 (Winter 2021, UW): Probability I.  
 * STAT 516 (Autumn 2020, UW): Stochastic Modeling.  
 * STAT 538 (Winter 2019 & Winter 2020, UW): Statistical Learning: Modeling, Prediction, and Computing.  
-* STAT 311 (Autumn 2017 & Winter 2018 & Spring 2018, UW): Elements of Statistical Methods.
+* STAT 311 (Autumn 2017 & Winter 2018 & Spring 2018, UW): Elements of Statistical Methods.  
 
 <!-- ### Courses
 * STAT 581-583 (Autumn 2017 & Winter 2018 & Spring 2018, UW): [Advanced Theory of Statistical Inference](https://www.stat.washington.edu/jaw/COURSES/580s/580s.html).  
