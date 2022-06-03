@@ -60,7 +60,8 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
 *Submitted*.  
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
-[Slides](/files/2020_eot_slides.pdf) &nbsp;  
+[Slides](/files/2020-eot-slides.pdf) &nbsp;  
+<!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
 
 **Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
