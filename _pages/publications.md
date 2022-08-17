@@ -13,8 +13,9 @@ redirect_from:
 
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
 **Lang Liu**, Carlos Cinelli, Zaid Harchaoui  
-*COLT 2022 (to appear)*.  
-[PDF](https://arxiv.org/abs/2205.00350) &nbsp;  
+*COLT 2022*.  
+[PDF](https://arxiv.org/abs/2205.00350) &nbsp;
+[Slides](/files/COLT2022-score-slides.pdf) &nbsp;  
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
 **Lang Liu**, Soumik Pal, Zaid Harchaoui  

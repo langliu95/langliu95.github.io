@@ -9,6 +9,10 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Orthogonal Statistical Learning with Self-Concordant Loss**  
+* [*IFDS Workshop on Distributional Robustness*](https://ifds-tripods.github.io/drds-workshop-2022/#schedule), August 2022, Seattle, US.
+* [*COLT 2022*](http://learningtheory.org/colt2022/), July 2022, London, UK.  
+
 **Entropy Regularized Optimal Transport Independence Criterion**  
 * [*AISTATS 2022*](http://aistats.org/aistats2022/), March 2022, Virtual Conference.
 * [*Kantorovich Initiative Retreat*](https://kantorovich.org/event/ki-retreat-2022/), March 2022, Seattle, US.  
