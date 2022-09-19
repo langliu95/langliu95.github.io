@@ -15,6 +15,7 @@ redirect_from:
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
 * [*COMPSTAT 2022*](http://www.compstat2022.org/fullprogramme.php), August 2022, Virtual Conference.
+* [*JSM 2022*](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223306), August 2022, Washington DC, US.
 * [*PIMS-IFDS-NSF Summer School on Optimal Transport*](https://kantorovich.org/event/2022-optimal-transport-summer-school/schedule/), June 2022, Seattle, US.
 * [*AISTATS 2022*](http://aistats.org/aistats2022/), March 2022, Virtual Conference.
 * [*Kantorovich Initiative Retreat*](https://kantorovich.org/event/ki-retreat-2022/), March 2022, Seattle, US.  
@@ -22,7 +23,8 @@ redirect_from:
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
 * *TRIPODS Meeting*, September 2022, Virtual Poster Session.
 * *UW ML-OPT Seminar*, January 2022, Seattle, US.
-* [*NeurIPS 2021*](https://nips.cc/Conferences/2021), December 2021, Virtual Conference.  
+* [*NeurIPS 2021*](https://nips.cc/Conferences/2021), December 2021, Virtual Conference.
+* *Joint IFML/CCSI Symposium*, November 2021, Berkeley, US.  
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 * [*NeurIPS 2021 OTML Workshop*](https://otml2021.github.io/), December 2021, Virtual Conference.  
