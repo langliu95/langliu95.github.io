@@ -22,13 +22,12 @@ Contact me at liu16 [at] uw [dot] edu.
 ---
 Upcoming presentations
 * 09/29/2022: Presentation at [SIAM MDS 2022](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75087) on statistical analysis of divergence frontiers.
-* 08/25/2022: Presentation at [COMPSTAT 2022](http://www.compstat2022.org/fullprogramme.php) on large-scale entropy regularized optimal transport independence criterion.
 
 ---  
 News
+* 08/25/2022: Presentation at [COMPSTAT 2022](http://www.compstat2022.org/fullprogramme.php) on large-scale entropy regularized optimal transport independence criterion.
 * 08/08/2022: Presentation at [JSM 2022](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223306) on independence testing with entropy regularized optimal transport.
 * 08/06/2022: Presentation at [IFDS Workshop on Distributional Robustness](https://ifds-tripods.github.io/drds-workshop-2022/#schedule) on orthogonal statistical learning with self-concordant loss.
-* 07/03/2022: Presentation at [COLT 2022](https://learningtheory.org/colt2022/abstracts.html#Virtual%20session%20III) on orthogonal statistical learning with self-concordant loss.
 * 06/27/2022: Presentation at [PIMS-IFDS-NSF Summer School on Optimal Transport](https://kantorovich.org/event/2022-optimal-transport-summer-school/schedule/) on entropy regularized optimal transport independence criterion.
 * 05/14/2022: Our [paper](https://arxiv.org/abs/2205.00350) on orthogonal statistical learning (or double ML) has been accepted at COLT 2022.
 * 03/30/2022: **Oral presentation** at [AISTATS 2022](http://aistats.org/aistats2022/) on entropy regularized optimal transport independence criterion.

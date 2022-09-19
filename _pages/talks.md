@@ -14,10 +14,13 @@ redirect_from:
 * [*COLT 2022*](http://learningtheory.org/colt2022/), July 2022, London, UK.  
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
+* [*COMPSTAT 2022*](http://www.compstat2022.org/fullprogramme.php), August 2022, Virtual Conference.
+* [*PIMS-IFDS-NSF Summer School on Optimal Transport*](https://kantorovich.org/event/2022-optimal-transport-summer-school/schedule/), June 2022, Seattle, US.
 * [*AISTATS 2022*](http://aistats.org/aistats2022/), March 2022, Virtual Conference.
 * [*Kantorovich Initiative Retreat*](https://kantorovich.org/event/ki-retreat-2022/), March 2022, Seattle, US.  
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
+* *TRIPODS Meeting*, September 2022, Virtual Poster Session.
 * *UW ML-OPT Seminar*, January 2022, Seattle, US.
 * [*NeurIPS 2021*](https://nips.cc/Conferences/2021), December 2021, Virtual Conference.  
 
