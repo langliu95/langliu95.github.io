@@ -45,6 +45,14 @@ redirect_from:
 <!-- ![Monitoring](/images/monitoring.png) -->
 
 
+## Journals
+
+**Distribution Embedding Networks for Generalization from a Diverse Set of Classification Tasks**  
+**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
+*TMLR (accepted with minor revision), 2022*.  
+[PDF](https://arxiv.org/abs/2202.01940) &nbsp;  
+
+
 ## Workshops
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
@@ -63,8 +71,3 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
-
-**Distribution Embedding Networks for Meta-Learning with Heterogeneous Covariate Spaces**  
-**Lang Liu**, Mahdi Milani Fard, Sen Zhao  
-*Submitted*.  
-[PDF](https://arxiv.org/abs/2202.01940) &nbsp;  

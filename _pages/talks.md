@@ -21,6 +21,7 @@ redirect_from:
 * [*Kantorovich Initiative Retreat*](https://kantorovich.org/event/ki-retreat-2022/), March 2022, Seattle, US.  
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
+* [*SIAM MDS 2022*](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75087), September 29, San Diego, US.
 * *TRIPODS Meeting*, September 2022, Virtual Poster Session.
 * *UW ML-OPT Seminar*, January 2022, Seattle, US.
 * [*NeurIPS 2021*](https://nips.cc/Conferences/2021), December 2021, Virtual Conference.
