@@ -67,7 +67,7 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 
 **Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*Submitted*.  
+*Major revision at Bernoulli*.  
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->

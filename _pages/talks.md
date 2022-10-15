@@ -46,7 +46,12 @@ redirect_from:
 
 ---
 
+**Statistical Divergences for Learning and Inference: A Non-Asymptotic Viewpoint**
+[Slides](/files/final.pdf) &nbsp;
+[Video](https://sites.stat.washington.edu/people/liu16/video/private/final.mp4) &nbsp;  
+* *Ph.D. Final Exam*, September 2022, Seattle, US.  
+
 **Probability Metrics for Statistical Learning and Inference: Limit Laws and Non-Asymptotic Bounds**  
 [Slides](/files/general.pdf) &nbsp;
-[Video](https://sites.stat.washington.edu/people/liu16/video/private/general.mp4) &nbsp;  
+[Video](https://sites.stat.washington.edu/people/liu16/video/private/final.mp4) &nbsp;  
 * *Ph.D. General Exam*, December 2021, Seattle, US.

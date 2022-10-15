@@ -25,6 +25,7 @@ Upcoming presentations
 
 ---  
 News
+* 09/22/2022: I defended!.
 * 10/09/2022: Our [paper](https://arxiv.org/abs/2202.01940) on meta-learning with heterogeneous covariate spaces has been accepted (with minor revision) at TMLR.
 * 09/29/2022: Presentation at [SIAM MDS 2022](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75087) on statistical analysis of divergence frontiers.
 * 08/25/2022: Presentation at [COMPSTAT 2022](http://www.compstat2022.org/fullprogramme.php) on large-scale entropy regularized optimal transport independence criterion.
