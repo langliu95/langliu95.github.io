@@ -46,7 +46,7 @@ redirect_from:
 
 ---
 
-**Statistical Divergences for Learning and Inference: A Non-Asymptotic Viewpoint**
+**Statistical Divergences for Learning and Inference: A Non-Asymptotic Viewpoint**  
 [Slides](/files/final.pdf) &nbsp;
 [Video](https://sites.stat.washington.edu/people/liu16/video/private/final.mp4) &nbsp;  
 * *Ph.D. Final Exam*, September 2022, Seattle, US.  
