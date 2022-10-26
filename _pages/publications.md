@@ -55,6 +55,10 @@ redirect_from:
 
 ## Workshops
 
+**Likelihood Score under Generalized Self-Concordance**  
+**Lang Liu**, Zaid Harchaoui  
+*NeurIPS Score-Based Methods Workshop, 2022*.  
+
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
 *NeurIPS OTML Workshop, 2021 (**Best Paper Award**)*.  

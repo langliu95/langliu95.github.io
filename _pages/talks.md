@@ -10,6 +10,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
+* *UW IFDS Seminar*, October 2022, Seattle, US.
 * [*IFDS Workshop on Distributional Robustness*](https://ifds-tripods.github.io/drds-workshop-2022/#schedule), August 2022, Seattle, US.
 * [*COLT 2022*](http://learningtheory.org/colt2022/), July 2022, London, UK.  
 
@@ -23,7 +24,7 @@ redirect_from:
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
 * [*SIAM MDS 2022*](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75087), September 29, San Diego, US.
 * *TRIPODS Meeting*, September 2022, Virtual Poster Session.
-* *UW ML-OPT Seminar*, January 2022, Seattle, US.
+* *UW IFDS Seminar*, January 2022, Seattle, US.
 * [*NeurIPS 2021*](https://nips.cc/Conferences/2021), December 2021, Virtual Conference.
 * *Joint IFML/CCSI Symposium*, November 2021, Berkeley, US.  
 
