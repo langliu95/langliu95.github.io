@@ -25,6 +25,7 @@ Upcoming presentations
 
 ---  
 News
+* 11/18/2022: I am very honored to be awarded the Z.W. Birnbaum Award in the Department of Statistics at UW!
 * 10/21/2022: Presentation at IFDS weekly seminar on confidence set under self-concordance.
 * 09/22/2022: I defended!
 * 10/09/2022: Our [paper](https://arxiv.org/abs/2202.01940) on meta-learning with heterogeneous covariate spaces has been accepted (with minor revision) at TMLR.
