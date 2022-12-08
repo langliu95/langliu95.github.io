@@ -9,6 +9,9 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Confidence Sets under Generalized Self-Concordance**  
+* [*NeurIPS Score-Based Methods Workshop*](https://score-based-methods-workshop.github.io), December 2022, New Orleans, US.  
+
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
 * *UW IFDS Seminar*, October 2022, Seattle, US.
 * [*IFDS Workshop on Distributional Robustness*](https://ifds-tripods.github.io/drds-workshop-2022/#schedule), August 2022, Seattle, US.

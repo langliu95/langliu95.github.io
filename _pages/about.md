@@ -21,7 +21,7 @@ Contact me at liu16 [at] uw [dot] edu.
 
 ---
 Upcoming presentations
-* 12/02/2022: Presentation at [NeurIPS 2022 Workshop on Score-Based Methods](https://score-based-methods-workshop.github.io) on likelihood score under self-concordance.
+* 12/10/2022: Presentation at [PRIMA Optimal Transport And Applications Session](https://prima2022.primamath.org/sessions/optimal-transport-and-applications/) on asymptotics of discrete Schrödinger bridges.
 
 ---  
 News
