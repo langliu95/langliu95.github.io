@@ -49,7 +49,7 @@ redirect_from:
 
 **Distribution Embedding Networks for Generalization from a Diverse Set of Classification Tasks**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
-*TMLR (accepted with minor revision), 2022*.  
+*Transactions on Machine Learning Research, 2022*.  
 [PDF](https://arxiv.org/abs/2202.01940) &nbsp;  
 
 
@@ -75,3 +75,13 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
+
+
+**Statistical and Computational Guarantees for Influence Diagnostics**  
+Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
+[PDF](http://arxiv.org/abs/2212.04014) &nbsp;  
+
+
+**Stochastic Optimization for Spectral Risk Measures**  
+Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui  
+[PDF](https://arxiv.org/abs/2212.05149) &nbsp;  
