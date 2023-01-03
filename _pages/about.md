@@ -25,6 +25,9 @@ Upcoming presentations
 
 ---  
 News
+* 12/31/2022: A new [preprint](https://arxiv.org/abs/2301.00260) on confident set under generalized self-concordance.
+* 12/31/2022: Our [preprint](https://arxiv.org/abs/2011.08963) on discrete Schrödinger bridges has been updated.
+* 12/30/2022: A new [preprint](https://arxiv.org/abs/2212.14578) on automatic comparison measures for generative models.
 * 12/10/2022: A new [preprint](https://arxiv.org/abs/2212.05149) on spectral risk measures.
 * 12/08/2022: A new [preprint](http://arxiv.org/abs/2212.04014) on influence diagnostics.
 * 11/18/2022: I am very honored to be awarded the Z.W. Birnbaum Award in the Department of Statistics at UW!
@@ -33,6 +36,3 @@ News
 * 10/09/2022: Our [paper](https://arxiv.org/abs/2202.01940) on meta-learning with heterogeneous covariate spaces has been accepted (with minor revision) at TMLR.
 * 09/29/2022: Presentation at [SIAM MDS 2022](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75087) on statistical analysis of divergence frontiers.
 * 08/25/2022: Presentation at [COMPSTAT 2022](http://www.compstat2022.org/fullprogramme.php) on large-scale entropy regularized optimal transport independence criterion.
-* 08/08/2022: Presentation at [JSM 2022](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223306) on independence testing with entropy regularized optimal transport.
-* 05/14/2022: Our [paper](https://arxiv.org/abs/2205.00350) on orthogonal statistical learning (or double ML) has been accepted at COLT 2022.
-* 03/30/2022: **Oral presentation** at [AISTATS 2022](http://aistats.org/aistats2022/) on entropy regularized optimal transport independence criterion.

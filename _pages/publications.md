@@ -58,6 +58,8 @@ redirect_from:
 **Likelihood Score under Generalized Self-Concordance**  
 **Lang Liu**, Zaid Harchaoui  
 *NeurIPS Score-Based Methods Workshop, 2022*.  
+[PDF](/files/sbm2022-conf-set.pdf) &nbsp;
+[Poster](/files/sbm2022-conf-set-poster.pdf) &nbsp;  
 
 **Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
@@ -69,18 +71,25 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 
 ## Preprints
 
-**Asymptotics of Entropy-Regularized Optimal Transport via Chaos Decomposition**  
+**Confidence Sets under Generalized Self-Concordance**  
+**Lang Liu**, Zaid Harchaoui  
+[PDF](https://arxiv.org/abs/2301.00260) &nbsp;
+[Slides](/files/ifds2022-conf-set-slides.pdf) &nbsp;  
+
+**MAUVE Scores for Generative Models: Theory and Practice**  
+Krishna Pillutla$^\star$, **Lang Liu$^\star$**, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui ($^\star$Equal contribution)  
+[PDF](https://arxiv.org/abs/2212.14578) &nbsp;  
+
+**Asymptotics of Discrete Schrödinger Bridges via Chaos Decomposition**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
 *Major revision at Bernoulli*.  
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
 
-
 **Statistical and Computational Guarantees for Influence Diagnostics**  
 Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
 [PDF](http://arxiv.org/abs/2212.04014) &nbsp;  
-
 
 **Stochastic Optimization for Spectral Risk Measures**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui  
