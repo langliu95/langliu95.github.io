@@ -10,4 +10,5 @@ main:
     url: /teaching
 
   - title: "CV"
-    url: https://sites.stat.washington.edu/people/liu16/files/resume.pdf
+    url: /files/cv.pdf
+    # url: https://sites.stat.washington.edu/people/liu16/files/resume.pdf
