@@ -11,6 +11,16 @@ redirect_from:
 
 ## Conferences
 
+**Statistical and Computational Guarantees for Influence Diagnostics**  
+Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
+*AISTATS, 2023*.  
+[PDF](http://arxiv.org/abs/2212.04014) &nbsp;  
+
+**Stochastic Optimization for Spectral Risk Measures**  
+Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui  
+*AISTATS, 2023*.  
+[PDF](https://arxiv.org/abs/2212.05149) &nbsp;  
+
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
 **Lang Liu**, Carlos Cinelli, Zaid Harchaoui  
 *COLT 2022*.  
@@ -86,11 +96,3 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
-
-**Statistical and Computational Guarantees for Influence Diagnostics**  
-Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
-[PDF](http://arxiv.org/abs/2212.04014) &nbsp;  
-
-**Stochastic Optimization for Spectral Risk Measures**  
-Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui  
-[PDF](https://arxiv.org/abs/2212.05149) &nbsp;  
