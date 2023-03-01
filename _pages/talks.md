@@ -18,6 +18,7 @@ redirect_from:
 * [*COLT 2022*](http://learningtheory.org/colt2022/), July 2022, London, UK.  
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
+* [*ITA 2023*](https://ita.ucsd.edu/workshop/schedule2023/#3), February 2023, San Diego, US.
 * [*COMPSTAT 2022*](http://www.compstat2022.org/fullprogramme.php), August 2022, Virtual Conference.
 * [*JSM 2022*](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223306), August 2022, Washington DC, US.
 * [*PIMS-IFDS-NSF Summer School on Optimal Transport*](https://kantorovich.org/event/2022-optimal-transport-summer-school/schedule/), June 2022, Seattle, US.

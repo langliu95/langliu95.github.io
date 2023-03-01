@@ -25,7 +25,7 @@ I was a teaching assistant for
 
 ### Service
 
-Co-founded the Internship Preparation Program in the Department of Statistics at the University of Washington in 2022, which aims to help graduate students in statistics with finding internships in technological and financial companies.
+Co-founded the [Internship Preparation Program](https://ronakdm.github.io/internprep/) in the Department of Statistics at the University of Washington in 2022, which aims to help graduate students in statistics with finding internships in technological and financial companies.
 
 Hosted Machine Learning and Mass Transportation working group at the University of Washington in 2021.
 
