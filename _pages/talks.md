@@ -19,14 +19,14 @@ redirect_from:
 
 **Entropy Regularized Optimal Transport Independence Criterion**  
 * [*ITA 2023*](https://ita.ucsd.edu/workshop/schedule2023/#3), February 2023, San Diego, US.
-* [*COMPSTAT 2022*](http://www.compstat2022.org/fullprogramme.php), August 2022, Virtual Conference.
+* [*COMPSTAT 2022*](http://www.cmstatistics.org/RegistrationsV2/COMPSTAT2022/viewSubmission.php?in=512&token=pq8s133q6068o47o9sp71q0566osr3q4), August 2022, Virtual Conference.
 * [*JSM 2022*](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223306), August 2022, Washington DC, US.
 * [*PIMS-IFDS-NSF Summer School on Optimal Transport*](https://kantorovich.org/event/2022-optimal-transport-summer-school/schedule/), June 2022, Seattle, US.
 * [*AISTATS 2022*](http://aistats.org/aistats2022/), March 2022, Virtual Conference.
 * [*Kantorovich Initiative Retreat*](https://kantorovich.org/event/ki-retreat-2022/), March 2022, Seattle, US.  
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals**  
-* [*SIAM MDS 2022*](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75087), September 29, San Diego, US.
+* [*SIAM MDS 2022*](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75087), September 2022, San Diego, US.
 * *TRIPODS Meeting*, September 2022, Virtual Poster Session.
 * *UW IFDS Seminar*, January 2022, Seattle, US.
 * [*NeurIPS 2021*](https://nips.cc/Conferences/2021), December 2021, Virtual Conference.
@@ -39,7 +39,7 @@ redirect_from:
 * [*Joint Statistical Meeting*](https://ww2.amstat.org/meetings/jsm/2021/), August 2021, Virtual Conference.
 * [*BIRS Workshop on Entropic Regularization of Optimal Transport and Applications*](http://www.birs.ca/events/2021/5-day-workshops/21w5120), June 2021, Virtual Conference.
 * [*UW Probability Seminar*](https://math.washington.edu/events/2020-11-23/asymptotics-entropy-regularized-optimal-transport-chaos-decomposition), November 2020, Seattle, US.
-* *UW Machine Learning Retreat*, November 2022, Seattle, US.  
+* *UW Machine Learning Retreat*, November 2020, Seattle, US.  
 
 **Gradient-Based Monitoring of Learning Machines**  
 * [*IEEE International Conference on Acoustics, Speech and Signal Processing*](https://2021.ieeeicassp.org/), June 2021, Virtual Conference.

@@ -11,7 +11,7 @@ redirect_from:
 
 ## Conferences
 
-**Statistical and Computational Guarantees for Influence Diagnostics**  
+**Influence Diagnostics under Self-concordance**  
 Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
 *AISTATS, 2023*.  
 [PDF](http://arxiv.org/abs/2212.04014) &nbsp;  
