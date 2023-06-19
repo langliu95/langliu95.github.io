@@ -96,3 +96,11 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
+
+
+## Dissertation
+
+**Statistical Divergences for Learning and Inference: Limit Laws and Non-Asymptotic Bounds**  
+**Lang Liu**  
+[PDF](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/49764/Liu_washington_0250E_25117.pdf?sequence=1&isAllowed=y) &nbsp;
+[Slides](/files/final.pdf) &nbsp;
