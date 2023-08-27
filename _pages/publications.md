@@ -57,6 +57,12 @@ Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui
 
 ## Journals
 
+**Asymptotics of Discrete Schrödinger Bridges via Chaos Decomposition**  
+Zaid Harchaoui, **Lang Liu**, Soumik Pal  
+*Accepted at Bernoulli, 2023*.  
+[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
+[Slides](/files/2020-eot-slides.pdf) &nbsp;  
+
 **Distribution Embedding Networks for Generalization from a Diverse Set of Classification Tasks**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
 *Transactions on Machine Learning Research, 2022*.  
@@ -89,12 +95,6 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 **MAUVE Scores for Generative Models: Theory and Practice**  
 Krishna Pillutla$^\star$, **Lang Liu$^\star$**, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui ($^\star$Equal contribution)  
 [PDF](https://arxiv.org/abs/2212.14578) &nbsp;  
-
-**Asymptotics of Discrete Schrödinger Bridges via Chaos Decomposition**  
-Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*Major revision at Bernoulli*.  
-[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
-[Slides](/files/2020-eot-slides.pdf) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
 
 
