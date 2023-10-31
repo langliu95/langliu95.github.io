@@ -17,7 +17,7 @@ I am broadly interested in safe and interpretable statistical machine learning w
 I am also excited about optimal transport and its applications to statistical inference and machine learning.  
 <!-- I have been working on safe statistical machine learning by developing automatic change detection method for machine learning algorithms to monitor their behavior. -->
 
-Contact me at liu16 [at] uw [dot] edu.  
+Contact me at langliu195 [at] gmail [dot] com.  
 
 ---  
 News
