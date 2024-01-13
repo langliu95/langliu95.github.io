@@ -11,6 +11,11 @@ redirect_from:
 
 ## Conferences
 
+**The Rao, Wald, and Likelihood-Ratio Tests under Generalized Self-Concordance**  
+**Lang Liu**, Zaid Harchaoui  
+*ICASSP, 2024*.  
+[PDF](https://arxiv.org/abs/2301.00260) &nbsp;  
+
 **Influence Diagnostics under Self-concordance**  
 Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
 *AISTATS, 2023*.  
@@ -63,6 +68,11 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2011.08963) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 
+**MAUVE Scores for Generative Models: Theory and Practice**  
+Krishna Pillutla $^1$, **Lang Liu** $^1$, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui ( $^1$ Equal contribution)  
+*Journal of Machine Learning Research, 2023*  
+[PDF](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) &nbsp;   
+
 **Distribution Embedding Networks for Generalization from a Diverse Set of Classification Tasks**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
 *Transactions on Machine Learning Research, 2022*.  
@@ -92,9 +102,6 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 [PDF](https://arxiv.org/abs/2301.00260) &nbsp;
 [Slides](/files/ifds2022-conf-set-slides.pdf) &nbsp;  
 
-**MAUVE Scores for Generative Models: Theory and Practice**  
-Krishna Pillutla$^\star$, **Lang Liu$^\star$**, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui ($^\star$Equal contribution)  
-[PDF](https://arxiv.org/abs/2212.14578) &nbsp;  
 <!-- [Demo](https://sites.stat.washington.edu/people/liu16/eot/) &nbsp;   -->
 
 
