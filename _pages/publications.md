@@ -14,7 +14,8 @@ redirect_from:
 **The Rao, Wald, and Likelihood-Ratio Tests under Generalized Self-Concordance**  
 **Lang Liu**, Zaid Harchaoui  
 *ICASSP, 2024*.  
-[PDF](https://arxiv.org/abs/2301.00260) &nbsp;  
+[PDF-short](/files/icassp2024-conf-set.pdf) &nbsp;
+[PDF-long](https://arxiv.org/abs/2301.00260) &nbsp;  
 
 **Influence Diagnostics under Self-concordance**  
 Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
