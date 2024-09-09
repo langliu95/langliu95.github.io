@@ -21,11 +21,11 @@ Contact me at langliu195 [at] gmail [dot] com.
 
 ---  
 News
+* 08/27/2024 A new [preprint](https://arxiv.org/abs/2408.15065) on variance reduction via data balancing.
 * 12/13/2023: Our [paper](https://arxiv.org/abs/2301.00260) on statistical tests under generalized self-concordance has been accepted by ICASSP 2024.
 * 10/01/2023: Our [paper](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) on automatic comparison measures for generative models has been published at the Journal of Machine Learning Research.
 * 08/01/2023: Our [paper](https://arxiv.org/abs/2011.08963) on discrete Schrödinger bridges has been accepted by Bernoulli Journal.
 * 12/31/2022: Our [preprint](https://arxiv.org/abs/2011.08963) on discrete Schrödinger bridges has been updated.
 * 12/10/2022: A new [preprint](https://arxiv.org/abs/2212.05149) on spectral risk measures.
-* 12/10/2022: Presentation at [PRIMA Optimal Transport And Applications Session](https://prima2022.primamath.org/sessions/optimal-transport-and-applications/) on asymptotics of discrete Schrödinger bridges.
 * 12/08/2022: A new [preprint](http://arxiv.org/abs/2212.04014) on influence diagnostics.
 * 11/18/2022: I am very honored to be awarded the Z.W. Birnbaum Award in the Department of Statistics at UW!

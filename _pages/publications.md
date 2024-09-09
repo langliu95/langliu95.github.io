@@ -65,8 +65,8 @@ Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui
 
 **Asymptotics of Discrete Schrödinger Bridges via Chaos Decomposition**  
 Zaid Harchaoui, **Lang Liu**, Soumik Pal  
-*Accepted at Bernoulli, 2023*.  
-[PDF](https://arxiv.org/abs/2011.08963) &nbsp;
+*Bernoulli, 2024*.  
+[PDF](https://projecteuclid.org/journals/bernoulli/volume-30/issue-3/Asymptotics-of-discrete-Schrödinger-bridges-via-chaos-decomposition/10.3150/23-BEJ1659.full) &nbsp;
 [Slides](/files/2020-eot-slides.pdf) &nbsp;  
 
 **MAUVE Scores for Generative Models: Theory and Practice**  
@@ -97,6 +97,10 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 
 
 ## Preprints
+
+**The Benefits of Balance: From Information Projections to Variance Reduction**  
+**Lang Liu**, Ronak Mehta, Soumik Pal, Zaid Harchaoui  
+[PDF](https://arxiv.org/abs/2408.15065) &nbsp;  
 
 **Confidence Sets under Generalized Self-Concordance**  
 **Lang Liu**, Zaid Harchaoui  
