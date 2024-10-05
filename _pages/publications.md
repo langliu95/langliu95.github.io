@@ -11,11 +11,17 @@ redirect_from:
 
 ## Conferences
 
+**The Benefits of Balance: From Information Projections to Variance Reduction**  
+**Lang Liu** $^1$, Ronak Mehta $^1$, Soumik Pal, Zaid Harchaoui ( $^1$ Equal contribution)  
+*NeurIPS, 2024*.  
+[PDF](https://arxiv.org/abs/2408.15065) &nbsp;  
+
 **The Rao, Wald, and Likelihood-Ratio Tests under Generalized Self-Concordance**  
 **Lang Liu**, Zaid Harchaoui  
 *ICASSP, 2024*.  
 [PDF-short](/files/icassp2024-conf-set.pdf) &nbsp;
 [PDF-long](https://arxiv.org/abs/2301.00260) &nbsp;  
+[Slides](/files/icassp2024-conf-set-poster.pdf) &nbsp;  
 
 **Influence Diagnostics under Self-concordance**  
 Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
@@ -97,10 +103,6 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 
 
 ## Preprints
-
-**The Benefits of Balance: From Information Projections to Variance Reduction**  
-**Lang Liu**, Ronak Mehta, Soumik Pal, Zaid Harchaoui  
-[PDF](https://arxiv.org/abs/2408.15065) &nbsp;  
 
 **Confidence Sets under Generalized Self-Concordance**  
 **Lang Liu**, Zaid Harchaoui  

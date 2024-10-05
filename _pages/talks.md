@@ -10,6 +10,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Confidence Sets under Generalized Self-Concordance**  
+* [*IEEE International Conference on Acoustics, Speech and Signal Processing*](https://2024.ieeeicassp.org), April 2024, Seoul, Korea.
 * [*NeurIPS Score-Based Methods Workshop*](https://score-based-methods-workshop.github.io), December 2022, New Orleans, US.  
 
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
