@@ -30,7 +30,7 @@ Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui
 
 **Stochastic Optimization for Spectral Risk Measures**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui  
-*AISTATS, 2023 ([**Section on Risk Analysis Student Paper Award 2023 Honorable Mention**](https://community.amstat.org/riskanalysissection/awards/studentaward/description))*.  
+*AISTATS, 2023 ([**Risk Analysis Student Paper Award 2023 Honorable Mention**](https://community.amstat.org/riskanalysissection/awards/studentaward/description))*.  
 [PDF](https://arxiv.org/abs/2212.05149) &nbsp;  
 
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
