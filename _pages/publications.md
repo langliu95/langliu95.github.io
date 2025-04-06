@@ -14,24 +14,30 @@ redirect_from:
 **The Benefits of Balance: From Information Projections to Variance Reduction**  
 **Lang Liu** $^1$, Ronak Mehta $^1$, Soumik Pal, Zaid Harchaoui ( $^1$ Equal contribution)  
 *NeurIPS, 2024 ([**SLDS Student Poster Award 2024 Honorable Mention**](https://sites.google.com/view/slds2024/menu/contributed-posters-and-student-paper-competition?authuser=0))*.  
-[PDF](https://arxiv.org/abs/2408.15065) &nbsp;  
+[PDF](https://arxiv.org/abs/2408.15065) &nbsp;
+[Code](https://github.com/ronakdm/balancing) &nbsp;
+[Poster](https://ronakdm.github.io/files/raking-poster.pdf) &nbsp;  
 
 **The Rao, Wald, and Likelihood-Ratio Tests under Generalized Self-Concordance**  
 **Lang Liu**, Zaid Harchaoui  
 *ICASSP, 2024*.  
 [PDF-short](/files/icassp2024-conf-set.pdf) &nbsp;
-[PDF-long](https://arxiv.org/abs/2301.00260) &nbsp;  
+[PDF-long](https://arxiv.org/abs/2301.00260) &nbsp;
 [Slides](/files/icassp2024-conf-set-poster.pdf) &nbsp;  
 
 **Influence Diagnostics under Self-concordance**  
 Jillian Fisher, **Lang Liu**, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  
 *AISTATS, 2023 ([**SLDS Student Paper Award 2023 Honorable Mention**](https://amstat.connectedcommunity.org/discussion/2023-slds-student-paper-award-results))*.  
-[PDF](http://arxiv.org/abs/2212.04014) &nbsp;  
+[PDF](http://arxiv.org/abs/2212.04014) &nbsp;
+[Code](https://github.com/jfisher52/influence_theory) &nbsp;
+[Slides](https://jfisher52.github.io/papers/JSM_JFisher_2023.pdf) &nbsp;  
 
 **Stochastic Optimization for Spectral Risk Measures**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, **Lang Liu**, Zaid Harchaoui  
 *AISTATS, 2023 ([**Risk Analysis Student Paper Award 2023 Honorable Mention**](https://community.amstat.org/riskanalysissection/awards/studentaward/description))*.  
-[PDF](https://arxiv.org/abs/2212.05149) &nbsp;  
+[PDF](https://arxiv.org/abs/2212.05149) &nbsp;
+[Code](https://github.com/ronakdm/lerm/) &nbsp;
+[Poster](https://ronakdm.github.io/files/lrm-poster.pdf) &nbsp;  
 
 **Orthogonal Statistical Learning with Self-Concordant Loss**  
 **Lang Liu**, Carlos Cinelli, Zaid Harchaoui  
@@ -78,7 +84,7 @@ Zaid Harchaoui, **Lang Liu**, Soumik Pal
 **MAUVE Scores for Generative Models: Theory and Practice**  
 Krishna Pillutla $^1$, **Lang Liu** $^1$, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui ( $^1$ Equal contribution)  
 *Journal of Machine Learning Research, 2023 (**Best Papers Track**).*  
-[PDF](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) &nbsp;   
+[PDF](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) &nbsp;  
 
 **Distribution Embedding Networks for Generalization from a Diverse Set of Classification Tasks**  
 **Lang Liu**, Mahdi Milani Fard, Sen Zhao  
